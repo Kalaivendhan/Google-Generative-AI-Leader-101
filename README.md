@@ -72,6 +72,74 @@ Fine Tuning - Custom Model
 
 <img width="649" height="327" alt="image" src="https://github.com/user-attachments/assets/5b1a452f-4213-4d9b-a5ff-aa6c8a9adcab" />
 
+https://partner.cloudskillsboost.google/classrooms/30781
+
+https://partner.cloudskillsboost.google/classrooms/30781/notes/4837422
+
+<img width="990" height="544" alt="image" src="https://github.com/user-attachments/assets/4f765aeb-d08a-4e8e-b183-f6b074b113fc" />
+
+CPU, GPU - LLM - Date Magement/API Management - Software customized of env,   customized to env - 
+
+<img width="959" height="222" alt="image" src="https://github.com/user-attachments/assets/4f628843-760a-49b0-83d1-52c73a9f434c" />
+
+Reasoning and Action loop - ReAct methodology
+
+<img width="1090" height="550" alt="image" src="https://github.com/user-attachments/assets/8119525c-c473-42cb-8a88-81a16c34e7bb" />
+
+<img width="981" height="516" alt="image" src="https://github.com/user-attachments/assets/73d58f31-e78b-4793-8f4a-09bd5f194abc" />
+
+<img width="1110" height="576" alt="image" src="https://github.com/user-attachments/assets/6f630bf1-ef04-4b22-967e-901a31794947" />
+
+<img width="1097" height="558" alt="image" src="https://github.com/user-attachments/assets/f5f070df-092d-4cdf-96df-1907fac76a75" />
+
+<img width="1094" height="533" alt="image" src="https://github.com/user-attachments/assets/7dcabf50-c8ef-44d3-868e-55ca7f2bf47d" />
+
+<img width="783" height="478" alt="image" src="https://github.com/user-attachments/assets/5d1f2002-1242-4683-b668-0517a7edd9fb" />
+
+<img width="883" height="564" alt="image" src="https://github.com/user-attachments/assets/b7acb00a-e879-4010-aa0d-e8971e960c8a" />
+
+<img width="1144" height="504" alt="image" src="https://github.com/user-attachments/assets/c420aec3-4171-47b5-97dd-54e81ff38b80" />
+
+<img width="1114" height="487" alt="image" src="https://github.com/user-attachments/assets/55411430-2249-44f6-a460-bba8b56eab66" />
+
+Rules based or complex probabilistic reasoning
+
+<img width="1045" height="383" alt="image" src="https://github.com/user-attachments/assets/6032e03a-7b4a-4aaf-a7da-51a11e06a401" />
+
+reasing modle trained based on COT
+
+<img width="1086" height="463" alt="image" src="https://github.com/user-attachments/assets/c511453f-15ff-40b3-8e17-17ebba1d55b7" />
+
+<img width="709" height="505" alt="image" src="https://github.com/user-attachments/assets/17d2da97-7296-4e73-acf8-91693bc43a7b" />
+
+<img width="956" height="253" alt="image" src="https://github.com/user-attachments/assets/08bc0fe3-946a-4f5a-9cae-7069d3463c14" />
+
+<img width="985" height="449" alt="image" src="https://github.com/user-attachments/assets/26f5a932-e38b-46e7-b100-8071ceb54555" />
+
+<img width="1081" height="507" alt="image" src="https://github.com/user-attachments/assets/ce72b2fb-468d-49f3-9f1f-629b7c0e05db" />
+
+<img width="680" height="560" alt="image" src="https://github.com/user-attachments/assets/90f7836f-1b17-49d8-a9cf-afae3478e360" />
+
+<img width="1212" height="623" alt="image" src="https://github.com/user-attachments/assets/a84ce180-2991-4934-b480-4d5604c7d79d" />
+
+<img width="1347" height="644" alt="image" src="https://github.com/user-attachments/assets/fab3cebd-90de-400a-88f7-d2f4bef44396" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
