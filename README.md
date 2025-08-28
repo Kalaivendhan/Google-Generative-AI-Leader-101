@@ -41,6 +41,42 @@ Augment / Automate
 
 Based on the context, the new token generated will vary
 
+<img width="1649" height="542" alt="image" src="https://github.com/user-attachments/assets/032b1d5c-6250-45a7-977d-bf505edafa13" />
+
+
+<img width="1092" height="551" alt="image" src="https://github.com/user-attachments/assets/adaa7abe-d2cf-4fa2-9030-93929ea1adbb" />
+
+<img width="1121" height="561" alt="image" src="https://github.com/user-attachments/assets/81ca5dd4-1438-47e1-8b07-85d9a681a6d9" />
+
+<img width="1096" height="456" alt="image" src="https://github.com/user-attachments/assets/f896df76-f971-45fe-aa54-cbeac65e5290" />
+
+<img width="1009" height="545" alt="image" src="https://github.com/user-attachments/assets/985fd324-866f-4b42-ad89-2d95cc8463ab" />
+
+<img width="1109" height="574" alt="image" src="https://github.com/user-attachments/assets/238fe84c-ce10-4288-9fa2-39cbe0952021" />
+
+<img width="1041" height="521" alt="image" src="https://github.com/user-attachments/assets/b20fa53f-f288-4245-8156-a8220b04c89a" />
+
+<img width="1078" height="550" alt="image" src="https://github.com/user-attachments/assets/c1d414f0-69e8-4cd1-a2b4-d427be7b7aca" />
+
+Context Window - 128 K/ 1 M
+
+<img width="966" height="614" alt="image" src="https://github.com/user-attachments/assets/d34b4150-232e-449b-a08f-fb7106c73780" />
+
+<img width="687" height="489" alt="image" src="https://github.com/user-attachments/assets/cc75cdb9-2318-46ac-8585-0a3b704f5239" />
+
+RAG - gives your accuracy
+
+Fine Tuning - Custom Model
+
+<img width="911" height="565" alt="image" src="https://github.com/user-attachments/assets/8a61361d-6716-42ac-8636-6d2f121118dd" />
+
+<img width="649" height="327" alt="image" src="https://github.com/user-attachments/assets/5b1a452f-4213-4d9b-a5ff-aa6c8a9adcab" />
+
+
+
+
+
+
 
 
 
