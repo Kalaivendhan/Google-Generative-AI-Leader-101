@@ -171,6 +171,7 @@ https://cloud.google.com/learn/certification/generative-ai-leader
 
 https://google.github.io/adk-docs/agents
 
+partner central kickstart
 
 
 
