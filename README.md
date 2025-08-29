@@ -154,6 +154,15 @@ https://partner.cloudskillsboost.google/classrooms/30781/notes/4837422
 <img width="1005" height="400" alt="image" src="https://github.com/user-attachments/assets/33f30bde-f07e-49b1-ab26-dd3bc930ece7" />
 
 
+<img width="1048" height="363" alt="image" src="https://github.com/user-attachments/assets/a0a25a7f-333c-4b90-8bf4-5de7271600a4" />
+
+<img width="1045" height="358" alt="image" src="https://github.com/user-attachments/assets/00a73eaa-bc72-4105-b327-59050784d87a" />
+
+<img width="1045" height="337" alt="image" src="https://github.com/user-attachments/assets/d9bc4325-baa0-48bd-b990-982ee6022767" />
+
+
+
+
 
 
 
