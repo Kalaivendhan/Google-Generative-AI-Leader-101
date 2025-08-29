@@ -124,6 +124,42 @@ reasing modle trained based on COT
 
 <img width="1347" height="644" alt="image" src="https://github.com/user-attachments/assets/fab3cebd-90de-400a-88f7-d2f4bef44396" />
 
+**Day: 2**
+
+https://partner.cloudskillsboost.google/classrooms/30781
+https://partner.cloudskillsboost.google/classrooms/30781/notes/4837422
+
+<img width="1045" height="565" alt="image" src="https://github.com/user-attachments/assets/ce43649d-7f07-4476-9158-78158ed8c615" />
+
+<img width="1000" height="177" alt="image" src="https://github.com/user-attachments/assets/dde4018d-d05c-4e7b-81f9-fd205e33c7d9" />
+
+<img width="637" height="457" alt="image" src="https://github.com/user-attachments/assets/3d5513d7-04fd-4ca3-9bf3-3dedbd3223c1" />
+
+<img width="1066" height="538" alt="image" src="https://github.com/user-attachments/assets/62e79212-d921-42c7-a814-974c8a8946e6" />
+
+<img width="1081" height="554" alt="image" src="https://github.com/user-attachments/assets/8f4c1079-c535-43b2-87b6-526b01c4a9f8" />
+
+<img width="1068" height="532" alt="image" src="https://github.com/user-attachments/assets/adf64074-a887-4416-b9eb-d8d7de35c2a6" />
+
+<img width="1079" height="575" alt="image" src="https://github.com/user-attachments/assets/270e5839-5b11-4211-a80d-e8ce8a96cc28" />
+
+<img width="1126" height="543" alt="image" src="https://github.com/user-attachments/assets/5a8385f6-62c4-43f1-855a-3d4ebc547864" />
+
+<img width="708" height="393" alt="image" src="https://github.com/user-attachments/assets/7110acd1-d1ae-463c-a396-f379dd243f1e" />
+
+<img width="1005" height="400" alt="image" src="https://github.com/user-attachments/assets/88bdbae7-9c1c-4b16-849c-967a1c76e0e5" />
+
+<img width="1085" height="514" alt="image" src="https://github.com/user-attachments/assets/6897742d-4ac5-463e-a678-6707232d1252" />
+
+<img width="1005" height="400" alt="image" src="https://github.com/user-attachments/assets/33f30bde-f07e-49b1-ab26-dd3bc930ece7" />
+
+
+
+
+
+
+
+
 
 
 
