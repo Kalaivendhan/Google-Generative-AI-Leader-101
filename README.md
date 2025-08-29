@@ -167,6 +167,10 @@ Explainable AI / output / RAG:
 
 <img width="1329" height="523" alt="image" src="https://github.com/user-attachments/assets/1b228b97-c8d3-4496-9402-d4327eb92525" />
 
+https://cloud.google.com/learn/certification/generative-ai-leader
+
+https://google.github.io/adk-docs/agents
+
 
 
 
