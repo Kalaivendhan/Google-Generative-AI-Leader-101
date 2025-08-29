@@ -160,6 +160,20 @@ https://partner.cloudskillsboost.google/classrooms/30781/notes/4837422
 
 <img width="1045" height="337" alt="image" src="https://github.com/user-attachments/assets/d9bc4325-baa0-48bd-b990-982ee6022767" />
 
+Explainable AI / output / RAG:
+<img width="1194" height="319" alt="image" src="https://github.com/user-attachments/assets/58e9615e-d0a5-467e-99bb-9423d2bcd39c" />
+
+<img width="1337" height="559" alt="image" src="https://github.com/user-attachments/assets/44c82363-b4d8-461d-ac94-d9a6fde376a2" />
+
+<img width="1329" height="523" alt="image" src="https://github.com/user-attachments/assets/1b228b97-c8d3-4496-9402-d4327eb92525" />
+
+
+
+
+
+
+
+
 
 
 
